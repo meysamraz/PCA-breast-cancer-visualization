@@ -1,7 +1,7 @@
 # PCA breast cancer visualization and clustring 
 deploy PCA (Principal component analysis) on breast cancer data from [scikit-learn](https://scikit-learn.org/) 
 
-![alt text](https://github.com/meysam810/PCA-breast-cancer-visualization/blob/master/plot.png")
+![alt text]("https://github.com/meysam810/PCA-breast-cancer-visualization/blob/master/plot.png")
 
 ## Overview
 
@@ -21,7 +21,7 @@ Basically, PCA is a linear dimensionality reduction technique (algorithm) that t
 # How PCA works?
 PCA considers the correlation among variables. If the correlation is very high, PCA attempts to combine highly correlated variables and finds the directions of maximum variance in higher-dimensional data. The following image shows that the first principal component (PC1) has the largest possible variance and is orthogonal to PC2 (i.e. uncorrelated).
 
-![alt text](https://miro.medium.com/max/633/1*kUnPhARG0D2zgrRyRPqDXQ.png")
+![alt text]("https://miro.medium.com/max/633/1*kUnPhARG0D2zgrRyRPqDXQ.png")
 
 # Libraries used in the project
 
