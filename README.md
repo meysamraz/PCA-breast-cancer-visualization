@@ -1,5 +1,5 @@
 # PCA breast cancer visualization and clustring 
-deploy PCA (Principal component analysis) on breast cancer data from [scikit-learn](https://scikit-learn.org/) 
+implement PCA (Principal component analysis) on breast cancer data from [scikit-learn](https://scikit-learn.org/) 
 
 ![alt text](https://github.com/meysam810/PCA-breast-cancer-visualization/blob/master/plot2.png)
 
